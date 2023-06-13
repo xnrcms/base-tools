@@ -16,6 +16,7 @@ class Rsa
         $config         = array_merge(["digest_alg" => "sha512", "private_key_bits"  => 2048, "private_key_type"  => OPENSSL_KEYTYPE_RSA],$config);
         $tt             = date('YmdHis');
 
+        //测是对不对
         $filepath       = !empty($filepath) ? $filepath : '';
         $filename       = (!empty($filename) ? $filename : $tt);
 
