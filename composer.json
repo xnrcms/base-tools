@@ -1,0 +1,21 @@
+{
+    "name": "xnrcms/base-tools",
+    "description": "some commonly used tool classes or methods",
+    "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
+    "license": "MIY",
+    "autoload": {
+        "psr-4": {
+            "Xnrcms\\BaseTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xnrcms",
+            "email": "562909771@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
