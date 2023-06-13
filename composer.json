@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.1"
     },
-    "license": "MIY",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Xnrcms\\BaseTools\\": "src/"
