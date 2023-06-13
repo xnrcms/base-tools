@@ -3,7 +3,7 @@
     "description": "some commonly used tool classes or methods",
     "type": "library",
     "require": {
-        "php": ">=7.1"
+        "php": ">=8.0"
     },
     "license": "MIT",
     "autoload": {
