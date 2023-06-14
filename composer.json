@@ -3,7 +3,8 @@
     "description": "some commonly used tool classes or methods",
     "type": "library",
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "xnrcms/base-helper": "^1.2"
     },
     "license": "MIT",
     "autoload": {

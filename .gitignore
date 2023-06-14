@@ -1,1 +1,4 @@
-/vendor/
+/.vscode
+/vendor
+*.log
+.env
